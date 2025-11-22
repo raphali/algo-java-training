@@ -53,6 +53,6 @@ Solde final : 100
 ## Résumé du chemin d'exécution
 
 Quelles branches ont été prises ?
-- Premier if (age >= 18) : true
-- Deuxième if (estEtudiant) : true
-- Troisième if (solde >= 100) : true
+- Premier if (age >= 18) : if
+- Deuxième if (estEtudiant) : if
+- Troisième if (solde >= 100) : if
