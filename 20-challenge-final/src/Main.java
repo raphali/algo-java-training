@@ -53,7 +53,6 @@ public class Main {
         for (int i = 0; i < t.length; i++) {
             if (t[i] == val) {
                 count++;
-                break;
             }
         }
         return count;
